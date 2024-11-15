@@ -1,13 +1,9 @@
-- 👋 Hi, I’m @hoangbt610
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- My LinkedIn: https://www.linkedin.com/in/bui-tien-hoang-bb1b3b1a6/
+# Giới thiệu về tôi
 
-<!---
-hoangbt610/hoangbt610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 Xin chào! Tôi là Bùi Tiến Hoàng.
+
+- **Nghề nghiệp**: Làm việc trong ngành du lịch, luôn tìm kiếm cơ hội khám phá những địa điểm và văn hóa mới.
+- **Sở thích**: Tôi đam mê đọc sách để mở rộng kiến thức và có những giây phút thư giãn. Ngoài ra, bóng đá là môn thể thao yêu thích của tôi - tôi thường theo dõi các trận đấu và ủng hộ đội bóng yêu thích.
+- **Liên hệ**: Bạn có thể kết nối với tôi qua email tại [minhheropt1234@gmail.com](mailto:minhheropt1234@gmail.com).
+
+Rất vui được làm quen và chia sẻ đam mê cùng mọi người!
